@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anita.m
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @anita muojama
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on python projects
 - 📫 Reach me via e-mail: anita.muojama.7@gmail.com 
 
